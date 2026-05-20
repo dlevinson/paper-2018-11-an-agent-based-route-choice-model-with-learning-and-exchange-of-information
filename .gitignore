@@ -1,0 +1,6 @@
+# local-package-git-hygiene:start
+.DS_Store
+._*
+__pycache__/
+*.pyc
+# local-package-git-hygiene:end

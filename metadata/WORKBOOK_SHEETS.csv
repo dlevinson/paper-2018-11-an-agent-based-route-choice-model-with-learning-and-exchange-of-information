@@ -1,0 +1,4 @@
+sheet_name,rows,columns,nonempty_cells,formula_cells,modernized_formula_csv,modernized_values_csv,notes
+Sheet1,2951,18,44262,8850,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet1_formulas.csv,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet1_values.csv,Substantive ARC/DUE/SUE link-flow comparison table; modernized from local legacy Excel workbook.
+Sheet2,1,1,0,0,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet2_formulas.csv,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet2_values.csv,Blank/default sheet retained in original workbook conversion.
+Sheet3,1,1,0,0,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet3_formulas.csv,data/arc_due_sue_workbook/ARC_DUE_SUE_Sheet3_values.csv,Blank/default sheet retained in original workbook conversion.
