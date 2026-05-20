@@ -1,6 +1,6 @@
 # License Status: An Agent-Based Route Choice Model With Learning And Exchange Of Information
 
-Generated: 2026-05-20 13:31:26 AEST
+Generated: 2026-05-20 14:46:37 AEST
 
 Recorded license/access note from the verified audit row: MDPI article is CC BY 4.0. Candidate ARC code/workbook license should be set or confirmed before upload.
 
