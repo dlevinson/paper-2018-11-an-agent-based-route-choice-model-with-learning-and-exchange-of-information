@@ -1,5 +1,9 @@
 # An Agent-Based Route Choice Model With Learning And Exchange Of Information
 
+## Contribution
+
+This paper introduces an agent-based route-choice model that represents how heterogeneous travelers learn, form spatial knowledge, and exchange information over time. Applications to the Sioux Falls and Chicago sketch networks show that individual cognitive processes can be mapped into realistic aggregate traffic patterns while remaining computationally tractable.
+
 Row ID: paper-2018-11
 
 Citation: Zhu, S., & Levinson, D. (2018). An Agent-Based Route Choice Model with Learning and Exchange of Information. Urban Science, 2(3), 58. https://doi.org/10.3390/urbansci2030058
