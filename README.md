@@ -1,5 +1,12 @@
 # An Agent-Based Route Choice Model With Learning And Exchange Of Information
 
+## License
+
+Author-created code and scripts are licensed under MIT. Repository-created
+documentation and derived data are licensed under CC BY 4.0. The paper PDF
+under `paper/` and any third-party, benchmark, or legacy source materials
+retain their original terms.
+
 ## Contribution
 
 This paper introduces an agent-based route-choice model that represents how heterogeneous travelers learn, form spatial knowledge, and exchange information over time. Applications to the Sioux Falls and Chicago sketch networks show that individual cognitive processes can be mapped into realistic aggregate traffic patterns while remaining computationally tractable.

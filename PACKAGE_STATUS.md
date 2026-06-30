@@ -11,6 +11,7 @@ Generated: 2026-05-21 20:19:00 AEST
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no_human_subject_data_packaged`
+- Repository license: MIT for author-created code/scripts; CC BY 4.0 for repository-created documentation and derived data; paper PDF and benchmark/legacy source materials retained under original terms
 - Bibliographic citation: Zhu, Levinson. (2018). An Agent-Based Route Choice Model With Learning And Exchange Of Information. Urban Science 2(3):58 (2018), MDPI OA. 10.3390/urbansci2030058
 
 ## Package Checks
